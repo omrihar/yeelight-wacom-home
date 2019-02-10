@@ -10,6 +10,7 @@ ipython = "*"
 yeelight = "*"
 requests = "*"
 pyqt5 = "*"
+schedule = "*"
 
 [requires]
 python_version = "3.7"
